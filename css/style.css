@@ -260,9 +260,12 @@ body {
 .big-img:hover img {
   opacity: 0.4;
 }
-/* .carousel-control-next{
+.carousel-control-prev{
   display: none!important;
-} */
+}
+.carousel-control-next{
+  display: none!important;
+}
 .search-input{
   border-left: 0!important;
   border-right: 0!important;
@@ -393,13 +396,7 @@ li.map a {
 .wrapper-inner h2 {
   font-family: "Zen Kurenaido", sans-serif;
 }
-button.carousel-control-next {
-  /* display: none!important; */
-  width: 8%;
-}
-.carousel-control-prev{
-width: 8%!important;
-}
+
 
 @media only screen and (max-width: 950px) {
   .container-nav {
@@ -481,6 +478,29 @@ width: 8%!important;
     display: none;
   }
 }
+
+
+/* leardership */
+.sub-1{
+  padding-top: 200px;
+  color: white;
+  
+}
+.sub-1-img{
+
+}
+.sub-1-title{
+  -webkit-font-smoothing: antialiased;
+}
+.sub-1-sub-title{
+text-transform: none;
+letter-spacing: 0;
+}
+.sub-1-p-div{
+
+}
+
+
 
 
 
